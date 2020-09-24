@@ -1,0 +1,7 @@
+echo "# JAVA-Ulearn" >> README.md 
+git init 
+git add README.md 
+git commit -m "первая фиксация" 
+git branch -M master 
+git remote add origin https://github.com/Chekebreek/JAVA-Ulearn. git
+ git push -u origin master
